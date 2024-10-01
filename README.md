@@ -11,3 +11,4 @@ To write your solution, you should
 6. Make sure the repository containing the solution is public
 
 Deadline: Sunday, October 6, 2024 at 23:59
+# TECH2-assignment
